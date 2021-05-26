@@ -1,1 +1,1 @@
-# Ecommerce Home page using HTML CSS
+# Ecommerce app using HTML CSS Bootstrap
